@@ -2,9 +2,11 @@ body{
 	background-image: url(../img/brooke-lark-275181.jpg);
 	background-position: center;
 	background-size: cover;
+	height: 900px;
 }
 
 #formulario{
+	width: 10%;
 	margin: 15%;
 	border-radius: 7px;
 	padding: 5%;
